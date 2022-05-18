@@ -1,5 +1,4 @@
 # Github search Users app
-
 React app for searching Github users and display their information with repositories (for ex. 10 last repos).
 
 ### Developing details (libs):
